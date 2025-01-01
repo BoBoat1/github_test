@@ -14,6 +14,8 @@ class MainApp extends StatelessWidget {
       home: Scaffold(
         body: Center(
           child: Text('this is a test for ffdsk'),
+          child: Text('this is a test for ffdsk'),
+          child: Text('this is a test for ffdsk'),
         ),
       ),
     );
