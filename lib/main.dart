@@ -9,6 +9,14 @@ class MainApp extends StatelessWidget {
 // how about this
   // this is funny
 
+      "sort": {
+      "ascending": "تصاعدي",
+      "descending": "تنازلي",
+      "deleteAllSorts": "حذف جميع التراتيب",
+      "addSort": "أضف نوعًا",
+      "deleteSort": "حذف الفرز"
+    },
+
   @override
   Widget build(BuildContext context) {
     return const MaterialApp(
