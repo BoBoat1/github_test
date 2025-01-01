@@ -13,7 +13,7 @@ class MainApp extends StatelessWidget {
     return const MaterialApp(
       home: Scaffold(
         body: Center(
-          child: Text('this is a test branch number 2'),
+          child: Text('this is gitlab'),
         ),
       ),
     );
